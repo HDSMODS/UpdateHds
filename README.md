@@ -1,0 +1,2 @@
+{'ver1':'18', 'ver2':'20', 'ver3':'\n\n[Base Update ] 2.22.17.76 \n\n\n \n' , 'dli':'http://zoldyckmods.blogspot.com/2022/11/zmwhatsapp-v18.html'}
+
